@@ -20,7 +20,7 @@
 |     Recursion      |       [재귀](./Recursion.md)        |
 |   priority_queue   | [우선순위 큐](./Priority_Queue.md)  |
 |        Sort        |          [정렬](./Sort.md)          |
-|    Two Pointer     |          [수학](./Math.md)          |
+|    Two Pointer     |          [투포인터](./Two_Pointer.md)          |
 |   Binary Search    |   [이진 탐색](./Binary_Search.md)   |
 |       Greedy       |        [그리디](./Greedy.md)        |
 |    Backtracking    |    [백트래킹](./Backtracking.md)    |
